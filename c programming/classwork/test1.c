@@ -1,4 +1,4 @@
-#include<stdio.h> 
+#include<stdio.h>
 
 void main()
 {
@@ -6,4 +6,5 @@ void main()
 	printf("\nLname :Kanzariya");
 	printf("\nAddress :Chuda");
 	printf("\nD.O.B :13 sep 2001");
-}
+	
+} 
