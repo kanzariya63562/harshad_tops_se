@@ -4,7 +4,7 @@ void main()
 {
 	int num1 = 43;
 	int num2 = 57;
-	printf("Number1 = %d \nNumber2 = %d",num1,num2);
+	printf("\nNumber1 = %d \nNumber2 = %d",num1,num2);
 	//printf("\nNumber2 = %d",num2);
 	printf("\nAddition : %d",(num1+num2));
 	printf("\nSubtraction : %d",(num1-num2));

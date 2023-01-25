@@ -6,8 +6,8 @@ void main()
 	int num1,num2;
 	printf("\Enter Number 1 : ");
 	scanf("%d",&num1);
-	printf("\nEnter Number 2: ");
-    scanf("&d",&num2);
+	printf("\nEnter Number 2 : ");
+    scanf("%d",&num2);
     
     printf("Number1 = %d \nNumber2 = %d",num1,num2);
     //printf("\nNumber2 = %d ,num2);
